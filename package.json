@@ -1,0 +1,14 @@
+{
+  "name": "angular_practice",
+  "version": "1.0.0",
+  "description": "Practive some angular stuff locally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Desrochers",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^7.5.4"
+  }
+}
